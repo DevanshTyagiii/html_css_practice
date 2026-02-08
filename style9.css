@@ -1,0 +1,48 @@
+* {
+    margin: 0; padding: 0;
+}
+#text {
+    font-size: x-large;
+    background-color: rgba(168, 6, 30, 0.1);
+    color: brown;
+}
+main {
+    background-color: rgb(104, 104, 223);
+    height: 1000px;
+}
+#product {
+    text-align: center;
+    height: 450px;
+    width: 400px;
+    background: green url(images/jeans.webp) no-repeat center;
+    background-size: contain;
+}
+#head {
+    text-decoration: underline wavy red;
+    line-height: 45px;
+}
+#link {
+    text-decoration: none;
+    font-size: x-large;
+}
+#article {
+    font-family: "Dancing script", cursive;
+    font-weight: 900;
+    font-size: x-large;
+}
+.box {
+    height: 150px;
+    width: 150px;
+}
+#box1 {
+    font-size: x-large;
+    background: linear-gradient(to right, #d1dbd5, #02bd60);
+    text-align: center;
+}
+#box2 {
+    text-decoration: underline;
+    font-size: x-large;
+    background: linear-gradient(to right, #02bd60,#d1dbd5);
+    text-align: center;
+}
+

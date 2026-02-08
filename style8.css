@@ -1,0 +1,16 @@
+.head {
+    color: rgb(48, 5, 88);
+}
+.para {
+    color: red;
+}
+.foot {
+    color: pink;
+}
+.first {color: black; background-color: red;}
+.second {color: black; background-color: green;}
+button {color: black; background-color: #ff00ff;}
+* {
+    background-color: rgba(191, 90, 154, 1);
+    margin: 0; padding: 0;
+}

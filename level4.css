@@ -1,0 +1,21 @@
+#padded {
+    height: 50px;
+    width: 50px;
+    padding: 2px;
+    margin: 5px;
+    background-color: slateblue;
+    text-align: center;
+    border: solid rgb(76, 20, 165) ;
+    border-radius: 10px;
+}
+* {
+    margin: 0; padding: 0;
+}
+#button1 {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border: rgb(91, 15, 136) solid 10px;
+    border-radius: 10px;
+}
