@@ -1,0 +1,9 @@
+#table table{
+    border-color: rgb(15, 43, 206);
+    border-collapse: collapse;
+    border-width: 5px;
+    margin-top: 222px;
+    background: linear-gradient(to right, #9dc1fc, #0865fc);
+    font-weight: 900;
+    color: #ffffff;
+}
